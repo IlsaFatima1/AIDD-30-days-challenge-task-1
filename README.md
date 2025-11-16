@@ -1,25 +1,25 @@
 # AIDD-30-days-challenge-task-1
 
-###what does AI-Driven Development means to you?
+### what does AI-Driven Development means to you?
 
 AI se chalne wali application jis mai AI mojud ho yani AI ap ke har stage pr apke sath ho ap ne ye decide karna hai ke kia banana hai kese bana hai woh hum AI ki help se banaye ge
 
 
-###what do you see the future of Human-AI Collaboration in software development?
+### what do you see the future of Human-AI Collaboration in software development?
 
 future mai human or AI software development as a team kaam kare ge humans creativity, ideas and planning kare ge AI inki planning and ideas pr work kare ge
 
 
-1️⃣ ####What is the main purpose of the AI-Native Era?
+1️⃣ #### What is the main purpose of the AI-Native Era?
 b) Empower developers through AI tools ✅
 
-2️⃣ ####What defines an AI-driven developer?
+2️⃣ #### What defines an AI-driven developer?
 b) Creates context-aware prompts ✅
 
-3️⃣ ####What does “AIDD” stand for?
+3️⃣ #### What does “AIDD” stand for?
 b) AI-Driven Development ✅
 
-4️⃣ ####What is the focus of Evaluation-Driven Development (EvDD)?
+4️⃣ #### What is the focus of Evaluation-Driven Development (EvDD)?
 b) Evaluating and improving AI outputs ✅
 
 5️⃣ ####What should developers focus on in the AI era?
